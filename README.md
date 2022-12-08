@@ -10,7 +10,6 @@ I am also a student at DIO.ME, a Software Engineering school(https://dio.me/sign
 
 * 🌍  I'm based in Rio de Janeiro, Brazil
 * ✉️  You can contact me at [parsivalcardoso@hotmail.com](mailto:parsivalcardoso@hotmail.com)
-* 🚀  I'm currently working on [Result Sistemas](http://resultsistemas.com)
 * 🧠  I'm learning Advanced Javascript, Unit Tests and C# ASP.NET programming language
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 * ⚡  I love sports and my favorite is Crossfit
@@ -44,7 +43,7 @@ src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-th
 
 <a href="http://www.github.com/dev-parsival"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-parsival&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/peguimasid" align="left"><img src="https://github-readme-stats-dev-parsival.vercel.app/api/top-langs/?username=dev-parsival&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/dev-parsival" align="left"><img src="https://github-readme-stats-dev-parsival.vercel.app/api/top-langs/?username=dev-parsival&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 
